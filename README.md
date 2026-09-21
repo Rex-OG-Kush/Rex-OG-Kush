@@ -1,5 +1,3 @@
-# Hi, I'm Matutuzela Jabulani Ndlovu 👋
-
 ### 🌐 Network Automation & Data Analytics Specialist
 **Location:** Sasolburg, Free State, South Africa  
 **Core Domain:** Bridging Enterprise Cisco/Mikrotik Infrastructure with Statistical Data Analytics
@@ -7,7 +5,7 @@
 ---
 
 ## 🚀 Professional Profile
-I am an IT professional specializing in treating enterprise network infrastructure as a continuous data pipeline. By combining practical **Cisco & Mikrotik routing operations** with **HarvardX statistical analysis frameworks**, I leverage programming logic to eliminate manual configurations, optimize subnet allocations, and deploy proactive threat detection models.
+I am an IT professional specializing in treating enterprise network infrastructure as a continuous data pipeline. By combining practical **Cisco & Mikrotik routing operations** with **HarvardX statistical analysis frameworks** I leverage programming logic to eliminate manual configurations, optimize subnet allocations, and deploy proactive threat detection models.
 
 * 📊 **Data Analytics:** Actively mastering data cleaning, wrangling, and predictive probability via the **HarvardX Data Science Professional Certificate** (Core competencies in `R`, `dplyr`, `ggplot2`).
 * ⚡ **Infrastructure:** Experienced in configuring regional router parameters, managing localized IP spaces (VLSM), and auditing perimeter security baselines (**Cisco Junior Networking Technician**).
