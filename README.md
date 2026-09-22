@@ -1,5 +1,6 @@
 ### 🌐 Network Automation & Data Analytics Specialist
 **Location:** Free State, South Africa 
+
 **Core Domain:** Bridging Enterprise Cisco/Mikrotik Infrastructure with Statistical Data Analytics
 
 ---
