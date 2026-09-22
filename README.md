@@ -1,5 +1,5 @@
 ### 🌐 Network Automation & Data Analytics Specialist
-**Location:** Sasolburg, Free State, South Africa  
+**Location:** Free State, South Africa  
 **Core Domain:** Bridging Enterprise Cisco/Mikrotik Infrastructure with Statistical Data Analytics
 
 ---
