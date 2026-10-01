@@ -20,11 +20,12 @@ Highly analytical and systems-driven Systems Architect specializing in the inter
 An autonomous, serverless cloud data engineering pipeline designed to capture global market data footprint strings. 
 *   **The Architecture:** Built with an enterprise Python ingestion engine triggered natively in the cloud via serverless **GitHub Actions CI/CD cron loops**.
 *   **The Mechanics:** Programmatically extracts raw asset telemetry, enforces validation gates against unstructured payloads, and normalizes financial records into schema-validated, production-ready JSON metrics.
+*   **The Infrastructure:** Architected completely as **Infrastructure as Code (IaC) using HashiCorp Terraform** to provision isolated resource groups and private cloud containers within the South Africa North (Johannesburg) Azure region.
 
 ### 🛡️ [Network Log Anomaly Detector](https://github.com)
 A statistics-driven security log parsing engine engineered to identify malicious telemetry signatures within raw enterprise system datasets.
 *   **The Analytics:** Utilizes R-based statistical algorithms to apply high-precision **3-Sigma threshold constraints** across live syslog streams.
-*   **The Value:** Automatically flags and isolates real-time indicators of compromise, such as distributed denial-of-service (DDoS) spikes and unauthorized port-scanning behaviors.
+*   **The Value:** Automatically flags and isolates real-time indicators of compromise, such as distributed denialof-service (DDoS) spikes and unauthorized port-scanning behaviors.
 
 ### 🧮 [Intelligent IP Subnet Planner](https://github.com)
 A programmatic infrastructure configuration engine designed to optimize network address allocation models.
@@ -36,7 +37,7 @@ A programmatic infrastructure configuration engine designed to optimize network 
 ## ⚙️ Core Technical Capabilities
 
 *   **Languages & Frameworks:** Python, R (Tidyverse, ggplot2), SQL, Bash Scripting, Java / C# Fundamentals
-*   **Cloud & DevOps Automation:** GitHub Actions, CI/CD Workflow Optimization, Microsoft Azure Core Services, YAML Pipeline Definition
+*   **Cloud & DevOps Automation:** Terraform (IaC), GitHub Actions, CI/CD Workflow Optimization, Microsoft Azure Core Services, YAML Pipeline Definition
 *   **Network & Infrastructure Engineering:** Mikrotik RouterOS, Cisco IOS, IP Management & Subnet Optimization, Wireshark Packet Analysis
 *   **Development Environments:** VS Code, RStudio, Git Version Control Systems, Linux CLI (Ubuntu)
 
@@ -45,5 +46,4 @@ A programmatic infrastructure configuration engine designed to optimize network 
 ## 📬 Connect With Me
 
 *   **Email:** M.J_Ndlovu@Outlook.com
-*   **Phone / Signal:** (+27) 63 515 5579
 *   **LinkedIn:** https://www.linkedin.com/in/jabulani-n-rex-og-kush
